@@ -26,3 +26,4 @@ Objetivos:
     - NextJS    
 
 ## Protótipos
+![alt Página inicial](https://github.com/andersonr/IsLowPoo/blob/main/Prototipos/Inicial.png)
