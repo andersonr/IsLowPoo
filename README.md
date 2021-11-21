@@ -1,4 +1,4 @@
-# IsLow Poo?
+# Is Low Poo?
 
 App para colidir ingredientes e descobrir se o produto pesquisado é low poo ou não.
 
