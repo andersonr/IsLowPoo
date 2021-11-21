@@ -82,7 +82,8 @@ export default class MyApp extends App {
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
           />
-          <title>NextJS Material Kit by Creative Tim</title>
+          <meta charSet="utf-8" />
+          <title>Is low poo?</title>
         </Head>
         <Component {...pageProps} />
       </React.Fragment>
