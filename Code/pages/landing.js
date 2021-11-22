@@ -4,7 +4,6 @@ import classNames from "classnames";
 // @material-ui/core components
 import { makeStyles } from "@material-ui/core/styles";
 
-// @material-ui/icons
 
 // core components
 import Header from "components/Header/Header.js";
@@ -47,24 +46,15 @@ export default function LandingPage(props) {
         <div className={classes.container}>
           <GridContainer>
             <GridItem xs={12} sm={12} md={6}>
-              <h1 className={classes.title}>Your Story Starts With Us.</h1>
+              <h1 className={classes.title}>Como funciona?</h1>
               <h4>
-                Every landing page needs a small description after the big bold
-                title, that{"'"}s why we added this text here. Add here all the
-                information that can make you or your product create the first
-                impression.
+                Realiza uma pesquisa avançada nos ingredientes dos produtos 
+                selecionados e valida se eles são low poo ou não.
+                {/* Um conjunto de bases de dados que possuem os ingredientes dos cosméticos mais utilizados no momento e 
+                que são mantidas pela comunidade, recebendo constantemente uma curadoria especializada a fim de 
+                estar o mais atualizada o possível.  */}<br />
+                Também é possível criar combinações de produtos, descobrindo se eles combinam e visualizando os reviews da comunidade..
               </h4>
-              <br />
-              <Button
-                color="danger"
-                size="lg"
-                href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ref=creativetim"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <i className="fas fa-play" />
-                Watch video
-              </Button>
             </GridItem>
           </GridContainer>
         </div>
